@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android/app/src/main/res/layout/activity_finish.xml" value="0.1" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_ask_question.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_finish.xml" value="0.264" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_first.xml" value="0.3671875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_first_new.xml" value="0.25" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_main.xml" value="0.3671875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_question_ask.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_second.xml" value="0.3671875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/activity_third.xml" value="0.3671875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_item.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_item_list.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_progress.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_question_first.xml" value="0.3671875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_question_second.xml" value="0.264" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_question_third.xml" value="0.264" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_questions.xml" value="0.3671875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v2/app/src/main/res/layout/fragment_results.xml" value="0.4" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v3/app/src/main/res/layout/activity_finish.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v3/app/src/main/res/layout/fragment_item2_list.xml" value="0.2803442028985507" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v3/app/src/main/res/layout/fragment_item_list2.xml" value="0.2453125" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v3/app/src/main/res/layout/fragment_question_first.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/quiz_android_v3/app/src/main/res/layout/fragment_question_second.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/Dom/Documents/01 My_projects_github/Android_projects/quiz_android/app/src/main/res/layout/activity_finish.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/Dom/Documents/01 My_projects_github/Android_projects/quiz_android/app/src/main/res/layout/activity_first.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/Dom/Documents/01 My_projects_github/Android_projects/quiz_android/app/src/main/res/layout/activity_main.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/Dom/Documents/01 My_projects_github/Android_projects/quiz_android/app/src/main/res/layout/activity_second.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/Dom/Documents/01 My_projects_github/Android_projects/quiz_android/app/src/main/res/layout/activity_third.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Dom/Documents/01 My_projects_github/Android_projects/quiz_android/app/src/main/res/layout/fragment_progress.xml" value="0.353713768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.353713768115942" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

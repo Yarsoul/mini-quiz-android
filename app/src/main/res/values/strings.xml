@@ -1,0 +1,56 @@
+<resources>
+
+    <!--  Texts mainActivity:  -->
+    <string name="app_name">quiz_android</string>
+    <string name="main">Добро пожаловать!\n\nМожете пройти небольшой квиз :)</string>
+    <string name="difficult_description">Уровень сложности \n(общее время для всего теста):</string>
+    <string name="difficult_change">Выбрать уровень сложности</string>
+    <string-array name="difficulty_levels">
+        <item>Сложный (10 сек.)</item>
+        <item>Средний (20 сек.)</item>
+        <item>Легкий (30 сек.)</item>
+    </string-array>
+
+    <!--  Text buttons:  -->
+    <string name="button_start">Начать тест</string>
+    <string name="button_next">Следующий вопрос</string>
+    <string name="button_finish">К результатам</string>
+    <string name="button_else">Пройти тест ещё раз</string>
+    <string name="button_show_history">Показать историю</string>
+    <string name="button_hide_history">Скрыть историю</string>
+    <string name="button_remove_history">Очистить историю</string>
+
+    <!--  Text finishActivity:  -->
+    <string name="congratulations_finish">Поздравляем, вы прошли тест!</string>
+    <string name="congratulations_all">\n\nУра!\nВы ответили на все вопросы верно!</string>
+    <string name="correct_answers">\n\nКоличество правильных ответов:</string>
+    <string name="result">Результат:</string>
+    <string name="time_out">сработал таймер</string>
+    <string name="time_out_again">Ой, время вышло…\n\nПопробуйте ещё раз.</string>
+    <string name="from">из</string>
+
+    <!--    File log message:   -->
+    <string name="text_not_selected">Ответ не выбран</string>
+    <string name="file_save">Файл успешно сохранен</string>
+    <string name="file_save_empty">Файл создан</string>
+    <string name="file_save_error">Ошибка при сохранении файла</string>
+    <string name="file_read">Файл прочитан</string>
+    <string name="file_read_error">Ошибка при чтении файла</string>
+    <string name="file_not_exist">Файл не найден</string>
+    <string name="file_deleted">Файл удален</string>
+    <string name="file_bytes">Кол-во байтов в файле:</string>
+
+    <!--  Data Base log message:  -->
+    <string name="db_read">Данные из БД получены</string>
+    <string name="db_read_error">Ошибка чтения БД</string>
+    <string name="db_insert_error">Ошибка записи в БД</string>
+
+    <!--  Other message:  -->
+    <string name="clear_history">История очищена</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

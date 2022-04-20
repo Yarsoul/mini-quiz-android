@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_1">Вопрос 1:\nКакой цвет у ёлки?</string>
+    <string-array name="answers_1_colors">
+        <item>Выберите цвет</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Желтый</item>
+    </string-array>
+
+    <string name="question_2">Вопрос 2:\nЧто из списка является Новогодним украшением?</string>
+    <string-array name="answers_2_decorations">
+        <item>Выберите вариант</item>
+        <item>Надувные шары</item>
+        <item>Постеры</item>
+        <item>Гирлянды</item>
+    </string-array>
+
+    <string name="question_3">Вопрос 3:\nГде живет Дед Мороз?</string>
+    <string-array name="answers_3_sides">
+        <item>Выберите вариант</item>
+        <item>На севере</item>
+        <item>На юге</item>
+        <item>На западе</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Вопрос 1:\nКакой цвет у ёлки?</item>
+        <item>Вопрос 2:\nЧто из списка является Новогодним украшением?</item>
+        <item>Вопрос 3:\nГде живет Дед Мороз?</item>
+    </string-array>
+</resources>
